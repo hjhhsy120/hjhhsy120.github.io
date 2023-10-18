@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shiyue Huang. I am a Ph.D student of PKU-DAIR Lab. My research interests include AI for DB, database anomaly diagnosis, and LLM for DB.
+I am Shiyue Huang, a Ph.D student of PKU-DAIR Lab.
+My research interests: database anomaly diagnosis, AI for DB, LLM for DB.
