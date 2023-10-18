@@ -9,4 +9,7 @@ redirect_from:
 ---
 
 I am Shiyue Huang, a Ph.D student of PKU-DAIR Lab.
+
+My mentor is Prof. Bin Cui.
+
 My research interests: database anomaly diagnosis, AI for DB, LLM for DB.
