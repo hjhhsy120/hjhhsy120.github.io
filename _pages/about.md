@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shiyue Huang, a Ph.D student of PKU-DAIR Lab.
+I am Shiyue Huang (黄世悦), a Ph.D student of the DAIR Lab, Peking University.
 
 My mentor is Prof. Bin Cui.
 
