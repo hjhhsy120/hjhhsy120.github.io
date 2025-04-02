@@ -1,0 +1,11 @@
+---
+title: "OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution [Accepted]"
+collection: publications
+permalink: /publication/2025-opdiag
+excerpt: 'Operator-level diagnosis of database performance anomalies.'
+date: 2025-03-30
+venue: 'IEEE Transactions on Knowledge and Data Engineering'
+paperurl: ''
+citation: 'Huang, S., Wang, Z., Wu, Y., Tu, Y., Wang, J., & Cui, B. (2025). OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution. IEEE Transactions on Knowledge and Data Engineering.'
+---
+How to effectively diagnose and mitigate database performance anomalies remains a significant concern for modern database systems. Manually identifying the root causes of the anomalies is a labor-intensive process and significantly relies on professional experience. Meanwhile, existing work on automatic database diagnosis mainly focuses on detecting anomalous performance metrics or system log. These solutions lack the power to pinpoint detailed issues such as bad queries or problematic operators, which are indispensable for most database troubleshooting processes. In this paper, we propose OpDiag, a diagnosis framework that attributes database performance anomalies to query operators. In this framework, we first construct models offline to represent the relationship between query operators, performance metrics, and anomalies. These models can capture query plan features and support ad-hoc queries and schemas. Then, through feature attribution on these models during online diagnosis, OpDiag can effectively identify critical anomalous metrics and further trace back to suspicious queries and operators. This can provide concrete guidance for subsequent steps in anomaly mitigation. We applied OpDiag to both synthetic benchmark and real industry cases from ZTE Corporation. Empirical studies prove that OpDiag can accurately localize anomalous queries and operators, thus reducing human efforts in diagnosing and mitigating database performance anomalies.
